@@ -32,6 +32,10 @@ p {
 img {
     border: 1px #242424;
 }
+
+a [title] {
+    color: aqua;
+}
 article {
     border-top: #ccc;
 }
