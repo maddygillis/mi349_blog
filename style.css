@@ -28,3 +28,10 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
+
+image {
+    border: #242424;
+}
+article {
+    border-top: #ccc;
+}
