@@ -30,7 +30,7 @@ p {
 }
 
 image {
-    border: #242424;
+    border: 1px #242424;
 }
 article {
     border-top: #ccc;
