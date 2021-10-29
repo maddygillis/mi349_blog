@@ -34,8 +34,9 @@ img {
 }
 
 a [title] {
-    color: aqua;
+    color: #242424;
 }
+
 article {
     border-top: #ccc;
 }
