@@ -41,12 +41,12 @@ a [title] {
 }
 
 section {
+    background: #ccc;
     display: flex;
-    background: grey;
 }
 
 article {
-    background: white;
+    background: #999;
     padding: 20px;
     margin: 20px;
 }
