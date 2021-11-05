@@ -42,11 +42,13 @@ a [title] {
 
 section {
     display: flex;
-    background-color: purple;
+    background: grey;
 }
 
 article {
-    background-color: plum;
+    background: white;
+    padding: 20px;
+    margin: 20px;
 }
 
 
