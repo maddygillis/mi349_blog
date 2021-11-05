@@ -42,11 +42,11 @@ a [title] {
 
 section {
     display: flex;
+    background-color: purple;
 }
 
 article {
-    border-top: #ccc;
-    background-color: yellow;
+    background-color: plum;
 }
 
 
