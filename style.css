@@ -46,7 +46,6 @@ article {
 }
 
 .sticky {
-    background: green;
     position: sticky;
     top: 0;
 }
