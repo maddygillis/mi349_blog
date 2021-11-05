@@ -42,10 +42,15 @@ a [title] {
 
 article {
     border-top: #ccc;
+    background-color: yellow;
+}
+
+section {
+
 }
 
 .sticky {
-    background: honeydew;
+    background: white;
     position: sticky;
     top: 0;
 }
@@ -55,5 +60,5 @@ article {
     height: 50px;
     width: 50px;
     float: left;
-    margin-left: 20px;
+    margin-left: 10px;
 }
