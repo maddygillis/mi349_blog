@@ -40,14 +40,15 @@ a [title] {
     color: #242424;
 }
 
+section {
+    display: flex;
+}
+
 article {
     border-top: #ccc;
     background-color: yellow;
 }
 
-section {
-
-}
 
 .sticky {
     background: white;
