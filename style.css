@@ -9,7 +9,6 @@ body {
     color: #242424;
     border-top: 10px solid#242424;
     background: #fff;
-
 }
 
 h1 {
@@ -46,6 +45,15 @@ article {
 }
 
 .sticky {
+    background: honeydew;
     position: sticky;
     top: 0;
+}
+
+.favcolor {
+    background: purple;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-left: 10px;
 }
